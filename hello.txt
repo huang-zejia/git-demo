@@ -8,3 +8,5 @@ master update
 hot fix update
 page update
 test ssh
+
+ssh免密登录
